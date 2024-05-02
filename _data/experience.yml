@@ -1,0 +1,35 @@
+# Jobs
+- company: Robert Bosch GmbH, Pipeline@Power Solution
+  position: Semantic Modelling/System Architect
+  duration: Apr, 2024 &mdash; Present
+  summary: By embracing new challenges and technologies, I aim to not only expand my personal skill set but also contributing to the advancement of our architectural landscape, ensuring our systems remain at forefront of industry standards
+
+- company: Robert Bosch GmbH, Digital Business Xcellerator
+  position: Tech Lead Data Engineering / PO
+  duration: May, 2022 &mdash; Apr, 2024
+  summary: As tech lead, Successfully launched more than 100 (customer) production data pipeline, driving business growth and enhancing data-driven decision-making processes <ul class="resume-item-list"> <li>Lead architectur of pipeline and data structures, continuously enhancing pipeline quality and cost-effectiveness</li><li>mentored and coached a team of 7 data engineer, providing guidance on technical skills, best practices</li><li>Prioritizing tasks within sprints to ensure delivery of project objectives</li></ul> As PO, Leading an international team to design and implement pipeline solution in Cloud Environment (azure) <ul class="resume-item-list"> <li>Effectively bridge the gap between business requirements and technical solutions</li><li>Successfully lead the team through internal quality process, ensuring adherence to quality standards as well as legal requirements</li></ul> Technolgy used - Databricks/Delta Lake, Apache Spark, Azure, DevOps, Python, Golang
+
+- company: Robert Bosch GmbH, Digital Business Xcellerator
+  position: Data Engineer
+  duration: Nov, 2021 &mdash; Dec, 2022
+  summary: <ul class="resume-item-list"> <li> design and implement a real time monitoring architecture, improving the reaction time of the systems engineering on malfunctions in the fuel cell system </li> <li>Design and implement robust algorithms to identify real time failures and send alerts to experts in the business unit </li> <li> driving the embedding of a virtual replica (hybrid model) of a pressure sensor in the fuel cell air compression system </li> <li>technical support for the self-calibration of the Hydrogen Gas Injector </li> </ul> Technolgy used - Python, Docker/Docker Compose, Shell, Hadoop, Azure
+
+- company: Robert Bosch GmbH, Big Data, Modelling and AI
+  position: Data Engineer/Analyst
+  duration: Jul, 2019 &mdash; Nov, 2021
+  summary: <ul class="resume-item-list"> <li> defination and creation of adhocpipeline to accerate the UC development </li> <li>defination and creation of the architecture for tableau reporting tools </li> <li>training of new employees for cloud programming and visulaisation with Tableau</li> <li>in charge of technical review and process optimization for data enhanced activities</li> <li>consulting and initialization the UC development in cross functional department</li></ul> Technolgy used - Hadoop/Apache Spark, Oozie, Impala/SQL, Tableau, Python
+
+- company: Robert Bosch GmbH, Big Data, Modelling and AI
+  position: Function Developer Embedded AI
+  duration: Jul, 2019 &mdash; Nov, 2021
+  summary: technical Lead for data-enhanced embedding activities <div> in charge of AI and Data enhanced modeling, validation, prototyping and integration </div> Technolgy used - Python, C
+
+- company: Robert Bosch GmbH, Function Development
+  position: Predictive Function Developer
+  duration: Sep, 2016 &mdash; Jul, 2019
+  summary: in charge of modelling, simulation, prototyping and test/validation for <ul class="resume-item-list"> <li> Predicitive DPF Regeneration with Navigation </li> <li> Predicitive DPF Regeneration with self-route learning </li> </ul> functions are successfully integrated in 3 Customer Project <div> supporting and troubleshooting in Customer BRS 48v Project </div> <div>Technolgy used - Matlab/Simulink, C , TPT, INCA/MDA, Ascet </div>
+
+- company: Robert Bosch GmbH, Applikation
+  position: Internships
+  duration: Dec, 2015 &mdash; Jun, 2016 | Jul, 2015 &mdash; Nov, 2015
+  summary: <ul class="resume-item-list"> <li> Develop and document a simulink code generator for simulation and numeric optomization </li> <li> Develop a simply interface between matlab simulink model and test data </li> <li>Modelling and parameterization a lambda Sonde model </li> <li>Develop a new optimization method for lambdasonde Dynamic and Diagnoserobustheit</li> <li>Comparsion of different optimization method</li>
